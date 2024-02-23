@@ -1,5 +1,5 @@
-server:
-  port : 8080
+server: http://194.164.63.45/
+  port : 8082
 
 spring:
   security:
