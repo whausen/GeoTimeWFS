@@ -222,8 +222,8 @@
           	<artifactId>maven-compiler-plugin</artifactId>
          	<version>3.8.1</version> <!-- Dies ist die Version des Compiler-Plugins -->
           	<configuration>
-           	   <source>14</source> <!-- Java-Quellversion -->
-           	   <target>14</target> <!-- Java-Zielversion -->
+           	   <source>1.8</source> <!-- Java-Quellversion -->
+           	   <target>1.8</target> <!-- Java-Zielversion -->
        		   </configuration>
       	    </plugin>
             <plugin>
